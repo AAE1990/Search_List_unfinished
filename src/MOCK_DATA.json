@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "first_name": "Debee",
+    "last_name": "Paumier",
+    "email": "dpaumier0@go.com",
+    "gender": "Female",
+    "ip_address": "244.95.24.190"
+  },
+  {
+    "id": 2,
+    "first_name": "Dara",
+    "last_name": "Stillert",
+    "email": "dstillert1@plala.or.jp",
+    "gender": "Female",
+    "ip_address": "238.144.156.92"
+  },
+  {
+    "id": 3,
+    "first_name": "Doralin",
+    "last_name": "Tourle",
+    "email": "dtourle2@hhs.gov",
+    "gender": "Female",
+    "ip_address": "153.97.249.145"
+  },
+  {
+    "id": 4,
+    "first_name": "Cedric",
+    "last_name": "Nickols",
+    "email": "cnickols3@time.com",
+    "gender": "Male",
+    "ip_address": "139.160.164.238"
+  },
+  {
+    "id": 5,
+    "first_name": "Kiersten",
+    "last_name": "Nockolds",
+    "email": "knockolds4@wikipedia.org",
+    "gender": "Female",
+    "ip_address": "229.63.112.54"
+  },
+  {
+    "id": 6,
+    "first_name": "Ethel",
+    "last_name": "Albertson",
+    "email": "ealbertson5@amazon.de",
+    "gender": "Female",
+    "ip_address": "232.253.220.247"
+  },
+  {
+    "id": 7,
+    "first_name": "Tiffie",
+    "last_name": "Parley",
+    "email": "tparley6@harvard.edu",
+    "gender": "Female",
+    "ip_address": "191.154.216.14"
+  },
+  {
+    "id": 8,
+    "first_name": "Janessa",
+    "last_name": "Cordes",
+    "email": "jcordes7@independent.co.uk",
+    "gender": "Female",
+    "ip_address": "168.67.163.164"
+  },
+  {
+    "id": 9,
+    "first_name": "Odelia",
+    "last_name": "Quernel",
+    "email": "oquernel8@fc2.com",
+    "gender": "Female",
+    "ip_address": "130.174.23.1"
+  },
+  {
+    "id": 10,
+    "first_name": "Cazzie",
+    "last_name": "Fleming",
+    "email": "cfleming9@is.gd",
+    "gender": "Male",
+    "ip_address": "225.196.69.197"
+  },
+  {
+    "id": 11,
+    "first_name": "Dara",
+    "last_name": "Fleming",
+    "email": "datamig9@is.gd",
+    "gender": "Male",
+    "ip_address": "225.196.69.199"
+  }
+]
