@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Search_List_unfinished/static/css/main.a1dfd740.css",
+    "main.js": "/Search_List_unfinished/static/js/main.def876d7.js",
+    "index.html": "/Search_List_unfinished/index.html",
+    "main.a1dfd740.css.map": "/Search_List_unfinished/static/css/main.a1dfd740.css.map",
+    "main.def876d7.js.map": "/Search_List_unfinished/static/js/main.def876d7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1dfd740.css",
+    "static/js/main.def876d7.js"
+  ]
+}
